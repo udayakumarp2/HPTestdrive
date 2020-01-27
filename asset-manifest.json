@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/rts-labs/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/rts-labs/static/js/main.6e3630da.chunk.js",
-    "main.js.map": "/rts-labs/static/js/main.6e3630da.chunk.js.map",
-    "runtime-main.js": "/rts-labs/static/js/runtime-main.01607e64.js",
-    "runtime-main.js.map": "/rts-labs/static/js/runtime-main.01607e64.js.map",
-    "static/js/2.3f5bc0a2.chunk.js": "/rts-labs/static/js/2.3f5bc0a2.chunk.js",
-    "static/js/2.3f5bc0a2.chunk.js.map": "/rts-labs/static/js/2.3f5bc0a2.chunk.js.map",
-    "index.html": "/rts-labs/index.html",
-    "precache-manifest.3902f02c550fbb0299123762f38c8585.js": "/rts-labs/precache-manifest.3902f02c550fbb0299123762f38c8585.js",
-    "service-worker.js": "/rts-labs/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/rts-labs/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.3f5bc0a2.chunk.js.LICENSE": "/rts-labs/static/js/2.3f5bc0a2.chunk.js.LICENSE"
+    "main.css": "/udayakumarp2/rts-labs.git/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/udayakumarp2/rts-labs.git/static/js/main.c4408963.chunk.js",
+    "main.js.map": "/udayakumarp2/rts-labs.git/static/js/main.c4408963.chunk.js.map",
+    "runtime-main.js": "/udayakumarp2/rts-labs.git/static/js/runtime-main.577f65b9.js",
+    "runtime-main.js.map": "/udayakumarp2/rts-labs.git/static/js/runtime-main.577f65b9.js.map",
+    "static/js/2.3f5bc0a2.chunk.js": "/udayakumarp2/rts-labs.git/static/js/2.3f5bc0a2.chunk.js",
+    "static/js/2.3f5bc0a2.chunk.js.map": "/udayakumarp2/rts-labs.git/static/js/2.3f5bc0a2.chunk.js.map",
+    "index.html": "/udayakumarp2/rts-labs.git/index.html",
+    "precache-manifest.aa90928db01abf0fd221adbc84569436.js": "/udayakumarp2/rts-labs.git/precache-manifest.aa90928db01abf0fd221adbc84569436.js",
+    "service-worker.js": "/udayakumarp2/rts-labs.git/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/udayakumarp2/rts-labs.git/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.3f5bc0a2.chunk.js.LICENSE": "/udayakumarp2/rts-labs.git/static/js/2.3f5bc0a2.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.01607e64.js",
+    "static/js/runtime-main.577f65b9.js",
     "static/js/2.3f5bc0a2.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.6e3630da.chunk.js"
+    "static/js/main.c4408963.chunk.js"
   ]
 }
